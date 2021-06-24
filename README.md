@@ -1,1 +1,2 @@
-# DigitalSystemBoard_V1
+# digitalSystemBoard
+Project design digital system board
